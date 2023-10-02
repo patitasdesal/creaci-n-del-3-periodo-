@@ -1,0 +1,32 @@
+
+.encabezado{
+  background-color: aliceblue;
+  width: 200%;
+  min-height: 200px;
+  background-image: url(Fondos-de-pantalla-de-paisajes-naturales29.webp);
+}
+
+.tecnologia{
+  width: 120px;
+  height: 78px;
+  background-color: black;
+  margin: 2px;
+}
+.Ingles{
+ width: 120px;
+ height: 78px;
+ background-color: black;
+ margin: 2px;
+}
+.Matematicas{
+  width: 120px;
+  height: 78px;
+  background-color: black;
+  margin: 2px;
+}
+.sociales{
+  width: 120px;
+  height: 78px;
+  background-color: black;
+  margin: 2px;
+}
